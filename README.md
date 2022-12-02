@@ -1,2 +1,2 @@
-# soccer_analysis
+# Soccer_Analysis
 Analysis on goal trends in top EU soccers divisions
